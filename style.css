@@ -92,6 +92,7 @@ body {
   height: 3rem;
   border-radius: 0.5rem;
   border-style: solid;
+  border: none;
   background-color: var(--dark-cyan);
   color: var(--white);
   text-align: center;
